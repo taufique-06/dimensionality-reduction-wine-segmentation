@@ -2,6 +2,7 @@
 This project applies dimensionality reduction techniques to a wine dataset in order to simplify feature space while preserving the most informative variance in the data. It explores methods such as 
 1. Principal Component Analysis (PCA)
 2. Linear Discriminant Analysis (LDA)
+3. Kernel PCA
 
 ## PCA Results
 Code can be found: https://github.com/taufique-06/dimensionality-reduction-wine-segmentation/blob/main/PCA/pca.py
@@ -20,3 +21,12 @@ Code can be found: [https://github.com/taufique-06/dimensionality-reduction-wine
 
 ### Confusion Matrix Result
 <img width="129" height="78" alt="image" src="https://github.com/user-attachments/assets/a54935cc-fc5d-4d3f-8c3d-33dd97e229b1" />
+
+## Kernel PCA
+Code can be found: https://github.com/taufique-06/dimensionality-reduction-wine-segmentation/blob/main/Kernel_PCA/file.py
+
+### Graph
+<img width="456" height="274" alt="image" src="https://github.com/user-attachments/assets/8409fd54-5ae9-4a5b-af52-34a38c9f44ad" />
+
+### Confusion Matrix Result
+<img width="132" height="80" alt="image" src="https://github.com/user-attachments/assets/85ebe81f-91a1-4e13-b128-98da8012db8d" />
